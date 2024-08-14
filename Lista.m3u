@@ -1,0 +1,69 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/j67zn6jj16aq91pknd1w"
+#EXTINF:-1 tvg-chno="1" tvg-id="(no tvg-id)" tvg-name="DAZN 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="DAZN" tvg-shift="+1",DAZN 1
+http://2.56.98.103:6878/ace/getstream?id=97ee1fc21dbe40474d55f956e302817258049a2b&pid=1
+#EXTINF:-1 tvg-chno="2" tvg-id="(no tvg-id)" tvg-name="DAZN 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" group-title="DAZN" tvg-shift="+1",DAZN 2
+http://2.56.98.103:6878/ace/getstream?id=557d64b54659e7c7fbbc456b9ef47617ed2b9631&pid=2
+#EXTINF:-1 tvg-chno="3" tvg-id="(no tvg-id)" tvg-name="DAZN 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png" group-title="DAZN" tvg-shift="+1",DAZN 3
+http://2.56.98.103:6878/ace/getstream?id=cec2013a37526b4216f1a55a72042d03fb381ba5&pid=3
+#EXTINF:-1 tvg-chno="4" tvg-id="(no tvg-id)" tvg-name="DAZN 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png" group-title="DAZN" tvg-shift="+1",DAZN 4
+http://2.56.98.103:6878/ace/getstream?id=ef94f055e900bbf320d2d5abf214bf52a86b8c93&pid=4
+#EXTINF:-1 tvg-chno="5" tvg-id="(no tvg-id)" tvg-name="DAZN F1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="DAZN" tvg-shift="+1",DAZN F1
+http://2.56.98.103:6878/ace/getstream?id=dc0732e5f63a59001b7ef446a7e69c4a4adf7999&pid=5
+#EXTINF:-1 tvg-chno="6" tvg-id="(no tvg-id)" tvg-name="DAZN LaLiga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s" group-title="DAZN" tvg-shift="+1",DAZN LaLiga
+http://2.56.98.103:6878/ace/getstream?id=3a50025a46c0befcf26371c3d8be7fa335dbfe71&pid=6
+#EXTINF:-1 tvg-chno="7" tvg-id="(no tvg-id)" tvg-name="DAZN LaLiga (2)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s" group-title="DAZN" tvg-shift="+1",DAZN LaLiga (2)
+http://2.56.98.103:6878/ace/getstream?id=9adab53db8307d5f0e90dcc8a34ba9083dc0a0aa&pid=7
+#EXTINF:-1 tvg-chno="8" tvg-id="(no tvg-id)" tvg-name="DAZN LaLiga (3)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s" group-title="DAZN" tvg-shift="+1",DAZN LaLiga (3)
+http://2.56.98.103:6878/ace/getstream?id=6c2d6f5eb92eaf3628a2d67ac5d150592b335f67&pid=8
+#EXTINF:-1 tvg-chno="6" tvg-id="(no tvg-id)" tvg-name="DAZN LaLiga (4)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s" group-title="DAZN" tvg-shift="+1",DAZN LaLiga (4)
+http://2.56.98.103:6878/ace/getstream?id=0d5a7787f5a45e8a8ef925a5a1c87c42276e3f4b&pid=9
+#EXTINF:-1 tvg-chno="10" tvg-id="(no tvg-id)" tvg-name="DAZN LaLiga 2" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/evu0at1692970765.png" group-title="DAZN" tvg-shift="+1",DAZN LaLiga 2
+http://2.56.98.103:6878/ace/getstream?id=cc8c238d349438517544884e25eb4b0b163e90d3&pid=10
+#EXTINF:-1 tvg-chno="11" tvg-id="(no tvg-id)" tvg-name="DAZN LaLiga 2 (2)" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/evu0at1692970765.png" group-title="DAZN" tvg-shift="+1",DAZN LaLiga 2 (2)
+http://2.56.98.103:6878/ace/getstream?id=37937dcd5b6e25a7580c1d4302d8d8404eccc153&pid=11
+#EXTINF:-1 tvg-chno="12" tvg-id="(no tvg-id)" tvg-name="DAZN LaLiga 3" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/05/1_0_1_77D8_40A_1_C00000_0_0_0-2.png?fit=440%2C264&ssl=1" group-title="DAZN" tvg-shift="+1",DAZN LaLiga 3
+http://2.56.98.103:6878/ace/getstream?id=4d470847fcdcb352abb3a1cf0dcd73170ec01950&pid=12
+#EXTINF:-1 tvg-chno="13" tvg-id="(no tvg-id)" tvg-name="F1 TV" tvg-logo="https://play-lh.googleusercontent.com/WQ4ybZ8M6dAkE8NrjLkcIO1Y9aBcA7k6FsmFXrPWDb7utQIndvtAlTHCnqmJibL7dp3X" group-title="DAZN" tvg-shift="+1",F1 TV
+http://2.56.98.103:6878/ace/getstream?id=b776e67c4b10ca195b401886f89f2e56aef5c286&pid=13
+#EXTINF:-1 tvg-chno="14" tvg-id="(no tvg-id)" tvg-name="LaLiga TV BAR" tvg-logo="https://cdn-landings.laliga.com/laligatvbar/img/LLBares-logo-white.png" group-title="Movistar" tvg-shift="+1",LaLiga TV BAR
+http://2.56.98.103:6878/ace/getstream?3960db81ef9a48d311da45b7401caa33ba442b27&pid=14
+#EXTINF:-1 tvg-chno="15" tvg-id="(no tvg-id)" tvg-name="LaLiga TV BAR (2)" tvg-logo="https://cdn-landings.laliga.com/laligatvbar/img/LLBares-logo-white.png" group-title="Movistar" tvg-shift="+1",LaLiga TV BAR (2)
+http://2.56.98.103:6878/ace/getstream?id=3960db81ef9a48d311da45b7401caa33ba442b27&pid=15
+#EXTINF:-1 tvg-chno="16" tvg-id="(no tvg-id)" tvg-name="Movistar #Vamos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/VAMOSD.png" group-title="Movistar" tvg-shift="+1",Movistar #Vamos
+http://2.56.98.103:6878/ace/getstream?id=cc26ac2566538d6981b93cf92aae70c49dab3581&pid=16
+#EXTINF:-1 tvg-chno="17" tvg-id="(no tvg-id)" tvg-name="Movistar #Vamos (2)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/VAMOSD.png" group-title="Movistar" tvg-shift="+1",Movistar #Vamos (2)
+http://2.56.98.103:6878/ace/getstream?id=810bf5d638af120b5b9108e8bc7a229a3dd5da6f&pid=17
+#EXTINF:-1 tvg-chno="18" tvg-id="(no tvg-id)" tvg-name="Movistar +" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/MPLUS.png" group-title="Movistar" tvg-shift="+1",Movistar +
+http://2.56.98.103:6878/ace/getstream?id=36777f77031d75fc11eb0d51d84b0d03a68149cf&pid=18
+#EXTINF:-1 tvg-chno="19" tvg-id="(no tvg-id)" tvg-name="Movistar +2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/MPLUS2.png" group-title="Movistar" tvg-shift="+1",Movistar +2
+http://2.56.98.103:6878/ace/getstream?id=807f3ecba0a0981533493a3ae5f27c1e3ebace7e&pid=19
+#EXTINF:-1 tvg-chno="20" tvg-id="(no tvg-id)" tvg-name="Movistar Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/CPDEP.png" group-title="Movistar" tvg-shift="+1",Movistar Deportes
+http://2.56.98.103:6878/ace/getstream?id=521ac9d09b4aca552bf916cb3c045a3fad3838e2&pid=20
+#EXTINF:-1 tvg-chno="21" tvg-id="(no tvg-id)" tvg-name="Movistar Deportes (2)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/CPDEP.png" group-title="Movistar" tvg-shift="+1",Movistar Deportes (2)
+http://2.56.98.103:6878/ace/getstream?id=ed170530ae78a57d10b8b96cf71ee0e499b12806&pid=21
+#EXTINF:-1 tvg-chno="22" tvg-id="(no tvg-id)" tvg-name="Movistar Deportes 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/ARTHUR.png" group-title="Movistar" tvg-shift="+11",Movistar Deportes 2
+http://2.56.98.103:6878/ace/getstream?id=e2209337dba417e9d568d36d6c20a576b8db6fe3&pid=22
+#EXTINF:-1 tvg-chno="23" tvg-id="(no tvg-id)" tvg-name="Movistar Deportes 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/USOP2.png" group-title="Movistar" tvg-shift="+1",Movistar Deportes 3
+http://2.56.98.103:6878/ace/getstream?id=2772de82f6af0f21912406200069905405786786&pid=23
+#EXTINF:-1 tvg-chno="24" tvg-id="(no tvg-id)" tvg-name="Movistar Deportes 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/USOP3.png" group-title="Movistar" tvg-shift="+1",Movistar Deportes 4
+http://2.56.98.103:6878/ace/getstream?id=03ba06b86365757ea756c3347083feb54923ad71&pid=24
+#EXTINF:-1 tvg-chno="25" tvg-id="(no tvg-id)" tvg-name="Movistar Ellas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/MELLAV.png" group-title="Movistar" tvg-shift="+1",Movistar Ellas
+http://2.56.98.103:6878/ace/getstream?id=8ebaa34ffc90935ad286cecd95919aa5affa358f&pid=25
+#EXTINF:-1 tvg-chno="26" tvg-id="(no tvg-id)" tvg-name="Movistar LaLiga 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/MLIG1.png" group-title="Movistar" tvg-shift="+1",Movistar LaLiga 2
+http://2.56.98.103:6878/ace/getstream?id=f5b9e600617ed98bed851af15df966c218bb5bde&pid=26
+#EXTINF:-1 tvg-chno="27" tvg-id="(no tvg-id)" tvg-name="Movistar LaLiga TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/MLIGA.png" group-title="Movistar" tvg-shift="+1",Movistar LaLiga TV
+http://2.56.98.103:6878/ace/getstream?id=aad075af0f7ce4118b6b21c1ed898dd493842e97&pid=27
+#EXTINF:-1 tvg-chno="28" tvg-id="(no tvg-id)" tvg-name="Movistar Liga De Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/CHAPIO.png" group-title="Movistar" tvg-shift="+1",Movistar Liga De Campeones
+http://2.56.98.103:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c&pid=28
+#EXTINF:-1 tvg-chno="29" tvg-id="(no tvg-id)" tvg-name="Movistar Liga De Campeones (2)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/CHAPIO.png" group-title="Movistar" tvg-shift="+1",Movistar Liga De Campeones (2)
+http://2.56.98.103:6878/ace/getstream?id=82d0b5c6e1614e5f0cdbe2ff1205b24d27b98cc5&pid=29
+#EXTINF:-1 tvg-chno="30" tvg-id="(no tvg-id)" tvg-name="Movistar Liga de Campeones 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/CHAP1.png" group-title="Movistar" tvg-shift="+1",Movistar Liga de Campeones 2
+http://2.56.98.103:6878/ace/getstream?id=1bd02c325ed761b5a5fcaed21c21a35d940d15fe&pid=30
+#EXTINF:-1 tvg-chno="31" tvg-id="(no tvg-id)" tvg-name="Movistar Liga De Campeones 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/CHAP2.png" group-title="Movistar" tvg-shift="+1",Movistar Liga De Campeones 3
+http://2.56.98.103:6878/ace/getstream?id=e82cf5683354d159dbee301bf477f1e44ed7584c&pid=31
+#EXTINF:-1 tvg-chno="32" tvg-id="(no tvg-id)" tvg-name="Movistar Liga de Campeones 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/CHAP2.png" group-title="Movistar" tvg-shift="+1",Movistar Liga de Campeones 4
+http://2.56.98.103:6878/ace/getstream?id=9e6ce1ba6987c14db2c110c6044277177efb1c4d&pid=32
+#EXTINF:-1 tvg-chno="33" tvg-id="(no tvg-id)" tvg-name="Movistar Liga Hyper" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/MLIGS.png" group-title="Movistar" tvg-shift="+1",Movistar Liga Hyper
+http://2.56.98.103:6878/ace/getstream?id=4c81dacfe639d74722d0c26a4f6a4f2dfebfd29c&pid=33
+#EXTINF:-1 tvg-chno="34" tvg-id="(no tvg-id)" tvg-name="Movistar Liga Hyper 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/MLIGS2.png" group-title="Movistar" tvg-shift="+1",Movistar Liga Hyper 2
+http://2.56.98.103:6878/ace/getstream?id=9d7a240dac7b90043ff8e9899ce9cce1eaa8e8fe&pid=33
