@@ -34,7 +34,7 @@ http://2.56.98.103:6878/ace/getstream?id=cc26ac2566538d6981b93cf92aae70c49dab358
 #EXTINF:-1 tvg-chno="17" tvg-id="(no tvg-id)" tvg-name="Movistar #Vamos (2)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/VAMOSD.png" group-title="Movistar" tvg-shift="+1",Movistar #Vamos (2)
 http://2.56.98.103:6878/ace/getstream?id=810bf5d638af120b5b9108e8bc7a229a3dd5da6f&pid=17
 #EXTINF:-1 tvg-chno="18" tvg-id="(no tvg-id)" tvg-name="Movistar +" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/MPLUS.png" group-title="Movistar" tvg-shift="+1",Movistar +
-http://2.56.98.103:6878/ace/getstream?id=36777f77031d75fc11eb0d51d84b0d03a68149cf&pid=18
+http://2.56.98.103:6878/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0&pid=18
 #EXTINF:-1 tvg-chno="19" tvg-id="(no tvg-id)" tvg-name="Movistar +2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/MPLUS2.png" group-title="Movistar" tvg-shift="+1",Movistar +2
 http://2.56.98.103:6878/ace/getstream?id=807f3ecba0a0981533493a3ae5f27c1e3ebace7e&pid=19
 #EXTINF:-1 tvg-chno="20" tvg-id="(no tvg-id)" tvg-name="Movistar Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/CPDEP.png" group-title="Movistar" tvg-shift="+1",Movistar Deportes
